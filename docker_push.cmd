@@ -1,0 +1,1 @@
+docker push bratkov/dining_room_bot

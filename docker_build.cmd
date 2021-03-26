@@ -1,0 +1,1 @@
+docker build -t bratkov/dining_room_bot .
